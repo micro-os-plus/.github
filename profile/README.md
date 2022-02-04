@@ -2,7 +2,7 @@
 
 The **µOS++ IIIe** (_micro oh ɛs plus plus third edition_) project is the third iteration of µOS++, a POSIX-like, portable, open source, royalty-free, multi-tasking real-time framework intended for 32/64-bits embedded applications, written in C++.
 
-The original monolithic version of the project is in
+The original monolithic version of the project is available from:
 
 - [micro-os-plus-iii](https://github.com/micro-os-plus/micro-os-plus-iii)
 - [micro-os-plus-iii-cortexm](https://github.com/micro-os-plus/micro-os-plus-iii-cortexm)
