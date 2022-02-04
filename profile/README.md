@@ -1,6 +1,6 @@
 # Welcome to µOS++!
 
-The **µOS++ IIIe** (_micro oh ɛs plus plus third edition_) project is the third iteration of µOS++, a POSIX-like, portable, open source, royalty-free, multi-tasking real-time framework intended for 32/64-bits embedded applications, written in C++.
+**µOS++ IIIe** (_micro oh ɛs plus plus third edition_) is the third iteration of µOS++, a POSIX-like, portable, open source, royalty-free, multi-tasking real-time framework intended for 32/64-bits embedded applications, written in C++.
 
 The original monolithic version of the project is available from:
 
@@ -45,8 +45,9 @@ There are also several source packages with 3rd party content, grouped in a sepa
 
 ## The web sources
 
-- [web-jekyll](https://github.com/micro-os-plus/web-jekyll)
-- [web-preview](https://github.com/micro-os-plus/web-preview)
+The project [web site](http://micro-os-plus.github.io/) is generated using Jekyll from the markdown 
+content available in the [web-jekyll](https://github.com/micro-os-plus/web-jekyll) repo. 
+A preview of the development branch is published at [web-preview](http://micro-os-plus.github.io/web-preview/).
 
 ## Other repos
 
