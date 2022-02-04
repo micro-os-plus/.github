@@ -2,9 +2,14 @@
 
 The **µOS++ IIIe** (_micro oh ɛs plus plus third edition_) project is the third iteration of µOS++, a POSIX-like, portable, open source, royalty-free, multi-tasking real-time framework intended for 32/64-bits embedded applications, written in C++.
 
+The original monolithic version of the project is in
+
+- [micro-os-plus-iii](https://github.com/micro-os-plus/micro-os-plus-iii)
+- [micro-os-plus-iii-cortexm](https://github.com/micro-os-plus/micro-os-plus-iii-cortexm)
+
 ## µOS++ packages
 
-The µOS++ project is highly modular, with the code split over several source packages, each stored in a separate Git repo.
+Work is currently under way to a modularise the project, with code split over several source packages, each stored in a separate Git repo.
 
 The projects are listed below, in alphabetical order. The **version** badge shows the package.json version in the stable branch (`xpack`), and the **tag** badge shows the latest tag by date.
 
@@ -37,6 +42,11 @@ The projects are listed below, in alphabetical order. The **version** badge show
 There are also several source packages with 3rd party content, grouped in a separate GitHub organisation.
 
 - [arm-cmsis-core-m-xpack](https://github.com/xpack-3rd-party/arm-cmsis-core-m-xpack) ![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-3rd-party/arm-cmsis-core-m-xpack) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/arm-cmsis-core-m-xpack)
+
+## The web sources
+
+- [web-jekyll](https://github.com/micro-os-plus/web-jekyll)
+- [web-preview](https://github.com/micro-os-plus/web-preview)
 
 ## Other repos
 
