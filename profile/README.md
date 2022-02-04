@@ -1,6 +1,6 @@
 # Welcome to µOS++!
 
-**µOS++ IIIe** (_micro oh ɛs plus plus third edition_) is the third iteration of µOS++, a POSIX-like, portable, open source, royalty-free, multi-tasking real-time framework intended for 32/64-bits embedded applications, written in C++.
+**µOS++ IIIe** (_micro oh ɛs plus plus third edition_) is the third iteration of µOS++, a POSIX-like, portable, open source, royalty-free, multi-tasking real-time framework intended for 32/64-bits embedded applications, written in C++. ([User's manual](http://micro-os-plus.github.io/user-manual/), [API reference](http://micro-os-plus.github.io/reference/cmsis-plus/))
 
 The original monolithic version of the project is available from:
 
