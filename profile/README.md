@@ -7,7 +7,7 @@ The original monolithic version of the project is available from:
 - [micro-os-plus-iii](https://github.com/micro-os-plus/micro-os-plus-iii)
 - [micro-os-plus-iii-cortexm](https://github.com/micro-os-plus/micro-os-plus-iii-cortexm)
 
-## µOS++ packages
+## µOS++ source packages
 
 Work is currently under way to a modularise the project, with code split over several source packages, each stored in a separate Git repo.
 
