@@ -109,6 +109,8 @@ There are also several source packages with 3rd party content, grouped in a sepa
 - [arm-cmsis-core-m-xpack](https://github.com/xpack-3rd-party/arm-cmsis-core-m-xpack)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-3rd-party/arm-cmsis-core-m-xpack)](https://github.com/xpack-3rd-party/arm-cmsis-core-m-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/arm-cmsis-core-m-xpack)](https://github.com/xpack-3rd-party/arm-cmsis-core-m/tags)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-3rd-party/arm-cmsis-core-m.svg?color=blue)](https://www.npmjs.com/package/@xpack-3rd-party/arm-cmsis-core-m/)
+
 
 ## The web sources
 
