@@ -13,9 +13,16 @@ Work is currently under way to a modularise the project, with code split over se
 
 The projects are listed below, in alphabetical order. The **version** badge shows the package.json version in the stable branch (`xpack`), and the **tag** badge shows the latest tag by date.
 
-- [architecture-cortexm-xpack](https://github.com/micro-os-plus/architecture-cortexm-xpack) ![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/architecture-cortexm-xpack) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/architecture-cortexm-xpack)
-- [architecture-riscv-xpack](https://github.com/micro-os-plus/architecture-riscv-xpack) ![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/architecture-riscv-xpack) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/architecture-riscv-xpack)
-- [architecture-synthetic-posix-xpack](https://github.com/micro-os-plus/architecture-synthetic-posix-xpack) ![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/architecture-synthetic-posix-xpack) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/architecture-synthetic-posix-xpack)
+- [architecture-cortexm-xpack](https://github.com/micro-os-plus/architecture-cortexm-xpack) 
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/architecture-cortexm-xpack)](https://github.com/micro-os-plus/architecture-cortexm-xpack/blob/xpack/package.json)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/architecture-cortexm-xpack)](https://github.com/micro-os-plus/architecture-cortexm-xpack/tags)
+[![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/architecture-cortexm.svg?color=blue)](https://www.npmjs.com/package/@micro-os-plus/architecture-cortexm/)
+- [architecture-riscv-xpack](https://github.com/micro-os-plus/architecture-riscv-xpack) 
+![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/architecture-riscv-xpack) 
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/architecture-riscv-xpack)
+- [architecture-synthetic-posix-xpack](https://github.com/micro-os-plus/architecture-synthetic-posix-xpack)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/architecture-synthetic-posix-xpack) 
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/architecture-synthetic-posix-xpack)
 - [build-helper-xpack](https://github.com/micro-os-plus/build-helper-xpack) ![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/build-helper-xpack) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/build-helper-xpack)
 - [cmsis-os-xpack](https://github.com/micro-os-plus/cmsis-os-xpack) ![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/cmsis-os-xpack) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/cmsis-os-xpack)
 - [devices-cortexm-xpack](https://github.com/micro-os-plus/devices-cortexm-xpack) ![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/devices-cortexm-xpack) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/devices-cortexm-xpack)
