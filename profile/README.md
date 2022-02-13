@@ -71,6 +71,7 @@ The projects are listed below, in alphabetical order. The **version** badge show
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/micro-test-plus-xpack)](https://github.com/micro-os-plus/micro-test-plus-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/micro-test-plus-xpack)](https://github.com/micro-os-plus/micro-test-plus-xpack/tags)
 [![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/micro-test-plus.svg?color=blue)](https://www.npmjs.com/package/@micro-os-plus/micro-test-plus/)
+[![npm](https://img.shields.io/npm/dt/@micro-os-plus/micro-test-plus)](https://www.npmjs.com/package/@micro-os-plus/micro-test-plus/)
 - [platform-sifive-arty-xpack](https://github.com/micro-os-plus/platform-sifive-arty-xpack)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/platform-sifive-arty-xpack)](https://github.com/micro-os-plus/platform-sifive-arty-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/platform-sifive-arty-xpack)](https://github.com/micro-os-plus/platform-sifive-arty-xpack/tags)
