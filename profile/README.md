@@ -52,6 +52,7 @@ The projects are listed below, in alphabetical order. The **version** badge show
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/diag-trace-xpack)](https://github.com/micro-os-plus/diag-trace-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/diag-trace-xpack)](https://github.com/micro-os-plus/diag-trace-xpack/tags)
 [![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/diag-trace.svg?color=blue)](https://www.npmjs.com/package/@micro-os-plus/diag-trace/)
+[![npm](https://img.shields.io/npm/dt/@micro-os-plus/diag-trace)](https://www.npmjs.com/package/@micro-os-plus/diag-trace/)
 - [libs-c-xpack](https://github.com/micro-os-plus/libs-c-xpack)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/libs-c-xpack)](https://github.com/micro-os-plus/libs-c-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/libs-c-xpack)](https://github.com/micro-os-plus/libs-c-xpack/tags)
