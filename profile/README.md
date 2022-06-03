@@ -13,6 +13,10 @@ Work is currently under way to a modularise the project, with code split over se
 
 The projects are listed below, in alphabetical order. The **version** badge shows the package.json version in the stable branch (`xpack`), and the **tag** badge shows the latest tag by date.
 
+- [architecture-cortexa-xpack](https://github.com/micro-os-plus/architecture-cortexa-xpack/)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/architecture-cortexa-xpack)](https://github.com/micro-os-plus/architecture-cortexa-xpack/blob/xpack/package.json)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/architecture-cortexa-xpack)](https://github.com/micro-os-plus/architecture-cortexa-xpack/tags/)
+[![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/architecture-cortexa.svg?color=blue)](https://www.npmjs.com/package/@micro-os-plus/architecture-cortexa/)
 - [architecture-cortexm-xpack](https://github.com/micro-os-plus/architecture-cortexm-xpack/)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/architecture-cortexm-xpack)](https://github.com/micro-os-plus/architecture-cortexm-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/architecture-cortexm-xpack)](https://github.com/micro-os-plus/architecture-cortexm-xpack/tags/)
