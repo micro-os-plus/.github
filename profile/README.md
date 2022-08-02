@@ -28,6 +28,7 @@ The projects are listed below, in alphabetical order. The **version** badge show
 - [architecture-riscv-xpack](https://github.com/micro-os-plus/architecture-riscv-xpack/)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/architecture-riscv-xpack)](https://github.com/micro-os-plus/architecture-riscv-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/architecture-riscv-xpack)](https://www.npmjs.com/package/@micro-os-plus/architecture-riscv/)
+[![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/architecture-riscv.svg?color=blue)](https://www.npmjs.com/package/@micro-os-plus/architecture-riscv/)
 - [architecture-synthetic-posix-xpack](https://github.com/micro-os-plus/architecture-synthetic-posix-xpack/)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/architecture-synthetic-posix-xpack)](https://github.com/micro-os-plus/architecture-synthetic-posix-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/architecture-synthetic-posix-xpack)](https://github.com/micro-os-plus/architecture-synthetic-posix-xpack/tags/)
