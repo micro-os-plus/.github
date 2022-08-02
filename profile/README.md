@@ -82,6 +82,7 @@ The projects are listed below, in alphabetical order. The **version** badge show
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/hello-world-qemu-template-xpack)](https://github.com/micro-os-plus/hello-world-qemu-template-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/hello-world-qemu-template-xpack)](https://github.com/micro-os-plus/hello-world-qemu-template-xpack/tags/)
 [![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/hello-world-qemu-template.svg?color=blue)](https://www.npmjs.com/package/@micro-os-plus/hello-world-qemu-template/)
+[![npm](https://img.shields.io/npm/dt/@micro-os-plus/hello-world-qemu-template)](https://www.npmjs.com/package/@micro-os-plus/hello-world-qemu-template/)
 - [libs-c-xpack](https://github.com/micro-os-plus/libs-c-xpack/)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/libs-c-xpack)](https://github.com/micro-os-plus/libs-c-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/libs-c-xpack)](https://github.com/micro-os-plus/libs-c-xpack/tags/)
