@@ -86,11 +86,6 @@ The projects are listed below, in alphabetical order. The **version** badge show
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/diag-trace-xpack)](https://github.com/micro-os-plus/diag-trace-xpack/tags/)
 [![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/diag-trace.svg?color=blue)](https://www.npmjs.com/package/@micro-os-plus/diag-trace/)
 [![npm](https://img.shields.io/npm/dt/@micro-os-plus/diag-trace)](https://www.npmjs.com/package/@micro-os-plus/diag-trace/)
-- [hello-world-qemu-template-xpack](https://github.com/micro-os-plus/hello-world-qemu-template-xpack/)
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/hello-world-qemu-template-xpack)](https://github.com/micro-os-plus/hello-world-qemu-template-xpack/blob/xpack/package.json)
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/hello-world-qemu-template-xpack)](https://github.com/micro-os-plus/hello-world-qemu-template-xpack/tags/)
-[![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/hello-world-qemu-template.svg?color=blue)](https://www.npmjs.com/package/@micro-os-plus/hello-world-qemu-template/)
-[![npm](https://img.shields.io/npm/dt/@micro-os-plus/hello-world-qemu-template)](https://www.npmjs.com/package/@micro-os-plus/hello-world-qemu-template/)
 - [libs-c-xpack](https://github.com/micro-os-plus/libs-c-xpack/)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/libs-c-xpack)](https://github.com/micro-os-plus/libs-c-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/libs-c-xpack)](https://github.com/micro-os-plus/libs-c-xpack/tags/)
@@ -146,6 +141,16 @@ The projects are listed below, in alphabetical order. The **version** badge show
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/version-xpack)](https://github.com/micro-os-plus/version-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/version-xpack)](https://github.com/micro-os-plus/version-xpack/tags/)
 [![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/version.svg?color=blue)](https://www.npmjs.com/package/@micro-os-plus/version/)
+
+## Project templates
+
+Projects that can be used with `xpm init --template`:
+
+- [hello-world-qemu-template-xpack](https://github.com/micro-os-plus/hello-world-qemu-template-xpack/)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/hello-world-qemu-template-xpack)](https://github.com/micro-os-plus/hello-world-qemu-template-xpack/blob/xpack/package.json)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/hello-world-qemu-template-xpack)](https://github.com/micro-os-plus/hello-world-qemu-template-xpack/tags/)
+[![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/hello-world-qemu-template.svg?color=blue)](https://www.npmjs.com/package/@micro-os-plus/hello-world-qemu-template/)
+[![npm](https://img.shields.io/npm/dt/@micro-os-plus/hello-world-qemu-template)](https://www.npmjs.com/package/@micro-os-plus/hello-world-qemu-template/)
 
 ## 3rd party source packages
 
