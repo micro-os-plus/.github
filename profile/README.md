@@ -154,6 +154,7 @@ Projects that can be used with `xpm init --template`:
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/hello-world-qemu-template-xpack)](https://github.com/micro-os-plus/hello-world-qemu-template-xpack/tags/)
 [![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/hello-world-qemu-template.svg?color=blue)](https://www.npmjs.com/package/@micro-os-plus/hello-world-qemu-template/)
 [![npm](https://img.shields.io/npm/dt/@micro-os-plus/hello-world-qemu-template)](https://www.npmjs.com/package/@micro-os-plus/hello-world-qemu-template/)
+[![CI on Push](https://github.com/micro-os-plus/hello-world-qemu-template-xpack/actions/workflows/CI.yml/badge.svg)](https://github.com/micro-os-plus/hello-world-qemu-template-xpack/actions/workflows/CI.yml)
 
 ## 3rd party source packages
 
