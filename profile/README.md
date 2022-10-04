@@ -36,11 +36,6 @@ The projects are listed below, in alphabetical order. The **version** badge show
 - [architecture-synthetic-posix-xpack](https://github.com/micro-os-plus/architecture-synthetic-posix-xpack/)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/architecture-synthetic-posix-xpack)](https://github.com/micro-os-plus/architecture-synthetic-posix-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/architecture-synthetic-posix-xpack)](https://github.com/micro-os-plus/architecture-synthetic-posix-xpack/tags/)
-- [build-helper-xpack](https://github.com/micro-os-plus/build-helper-xpack/)
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/build-helper-xpack)](https://github.com/micro-os-plus/build-helper-xpack/blob/xpack/package.json)
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/build-helper-xpack)](https://github.com/micro-os-plus/build-helper-xpack/tags/)
-[![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/build-helper.svg?color=blue)](https://www.npmjs.com/package/@micro-os-plus/build-helper/)
-[![CI on Push](https://github.com/micro-os-plus/build-helper-xpack/actions/workflows/CI.yml/badge.svg)](https://github.com/micro-os-plus/build-helper-xpack/actions/workflows/CI.yml)
 - [cmsis-os-xpack](https://github.com/micro-os-plus/cmsis-os-xpack/)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/cmsis-os-xpack)](https://github.com/micro-os-plus/cmsis-os-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/cmsis-os-xpack)](https://github.com/micro-os-plus/cmsis-os-xpack/tags/)
@@ -144,6 +139,14 @@ The projects are listed below, in alphabetical order. The **version** badge show
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/version-xpack)](https://github.com/micro-os-plus/version-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/version-xpack)](https://github.com/micro-os-plus/version-xpack/tags/)
 [![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/version.svg?color=blue)](https://www.npmjs.com/package/@micro-os-plus/version/)
+
+## Build helper
+
+- [build-helper-xpack](https://github.com/micro-os-plus/build-helper-xpack/)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/build-helper-xpack)](https://github.com/micro-os-plus/build-helper-xpack/blob/xpack/package.json)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/build-helper-xpack)](https://github.com/micro-os-plus/build-helper-xpack/tags/)
+[![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/build-helper.svg?color=blue)](https://www.npmjs.com/package/@micro-os-plus/build-helper/)
+[![CI on Push](https://github.com/micro-os-plus/build-helper-xpack/actions/workflows/CI.yml/badge.svg)](https://github.com/micro-os-plus/build-helper-xpack/actions/workflows/CI.yml)
 
 ## Project templates
 
