@@ -1,5 +1,7 @@
 # Welcome to µOS++!
 
+## µOS++ IIIe
+
 **µOS++ IIIe** (_micro oh ɛs plus plus third edition_) is the third iteration of µOS++, a POSIX-like, portable, open source, royalty-free, multi-tasking real-time framework intended for 32/64-bits embedded applications, written in C++. ([User's manual](http://micro-os-plus.github.io/user-manual/), [API reference](http://micro-os-plus.github.io/reference/cmsis-plus/))
 
 The original monolithic version of the project is available from:
@@ -7,9 +9,11 @@ The original monolithic version of the project is available from:
 - [micro-os-plus-iii](https://github.com/micro-os-plus/micro-os-plus-iii)
 - [micro-os-plus-iii-cortexm](https://github.com/micro-os-plus/micro-os-plus-iii-cortexm)
 
-## µOS++ source packages
+## µOS++ IVe (work in progress)
 
-Work is currently under way to a modularise the project, with code split over several source packages, each stored in a separate Git repo.
+**µOS++ IVe** will be the fourth edition of µOS++. Work is currently under way to a modularise the project, with code split over several source packages, each stored in a separate Git repo.
+
+### µOS++ source packages
 
 The projects are listed below, in alphabetical order. The **version** badge shows the package.json version in the stable branch (`xpack`), and the **tag** badge shows the latest tag by date.
 
@@ -140,7 +144,7 @@ The projects are listed below, in alphabetical order. The **version** badge show
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/version-xpack)](https://github.com/micro-os-plus/version-xpack/tags/)
 [![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/version.svg?color=blue)](https://www.npmjs.com/package/@micro-os-plus/version/)
 
-## Build helper
+### Build helper
 
 - [build-helper-xpack](https://github.com/micro-os-plus/build-helper-xpack/)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/build-helper-xpack)](https://github.com/micro-os-plus/build-helper-xpack/blob/xpack/package.json)
