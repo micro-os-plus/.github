@@ -11,7 +11,7 @@ The original monolithic version of the project is available from:
 
 ## µOS++ IVe (work in progress)
 
-**µOS++ IVe** will be the fourth edition of µOS++. Work is currently under way to a modularised the project, with code split over several source packages, each stored in a separate Git repo.
+**µOS++ IVe** will be the fourth edition of µOS++. Work is currently under way to modularise the project, with code split over several source packages, each stored in a separate Git repo.
 
 ### µOS++ source packages
 
