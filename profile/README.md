@@ -6,8 +6,9 @@
 
 The original monolithic version of the project is available from:
 
-- [micro-os-plus-iii](https://github.com/micro-os-plus/micro-os-plus-iii)
-- [micro-os-plus-iii-cortexm](https://github.com/micro-os-plus/micro-os-plus-iii-cortexm)
+#### [micro-os-plus-iii](https://github.com/micro-os-plus/micro-os-plus-iii)
+
+#### [micro-os-plus-iii-cortexm](https://github.com/micro-os-plus/micro-os-plus-iii-cortexm)
 
 ## µOS++ IVe (work in progress)
 
