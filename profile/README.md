@@ -8,7 +8,17 @@ The original monolithic version of the project is available from:
 
 #### [micro-os-plus-iii](https://github.com/micro-os-plus/micro-os-plus-iii)
 
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/micro-os-plus-iii)](https://github.com/micro-os-plus/micro-os-plus-iii/blob/xpack/package.json)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/micro-os-plus-iii)](https://github.com/micro-os-plus/micro-os-plus-iii/tags/)
+
 #### [micro-os-plus-iii-cortexm](https://github.com/micro-os-plus/micro-os-plus-iii-cortexm)
+
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/micro-os-plus-iii-cortexm)](https://github.com/micro-os-plus/micro-os-plus-iii-cortexm/blob/xpack/package.json)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/micro-os-plus-iii-cortexm)](https://github.com/micro-os-plus/micro-os-plus-iii-cortexm/tags/)
+
+#### 3rd party packages
+
+There are also several source packages with 3rd party content, grouped in a separate GitHub organisation [xpacks](https://github.com/xpacks), now deprecated.
 
 ## µOS++ IVe (work in progress)
 
