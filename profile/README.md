@@ -10,6 +10,7 @@ The original monolithic version of the project is available from:
 
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/micro-os-plus-iii)](https://github.com/micro-os-plus/micro-os-plus-iii/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/micro-os-plus-iii)](https://github.com/micro-os-plus/micro-os-plus-iii/tags/)
+[![CI on Push](https://github.com/micro-os-plus/micro-os-plus-iii/actions/workflows/ci.yml/badge.svg)](https://github.com/micro-os-plus/micro-os-plus-iii/actions/workflows/ci.yml)
 
 #### [micro-os-plus-iii-cortexm](https://github.com/micro-os-plus/micro-os-plus-iii-cortexm)
 
