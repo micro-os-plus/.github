@@ -66,6 +66,8 @@ The projects are listed below, in alphabetical order. The **version** badge show
 
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/architecture-synthetic-posix-xpack)](https://github.com/micro-os-plus/architecture-synthetic-posix-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/architecture-synthetic-posix-xpack)](https://github.com/micro-os-plus/architecture-synthetic-posix-xpack/tags/)
+[![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/architecture-synthetic-posix.svg?color=blue)](https://www.npmjs.com/package/@micro-os-plus/architecture-synthetic-posix/)
+[![npm](https://img.shields.io/npm/dt/@micro-os-plus/architecture-synthetic-posix)](https://www.npmjs.com/package/@micro-os-plus/architecture-synthetic-posix/)
 
 #### [cmsis-os-xpack](https://github.com/micro-os-plus/cmsis-os-xpack/)
 
