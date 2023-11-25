@@ -166,7 +166,7 @@ The projects are listed below, in alphabetical order. The **version** badge show
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/micro-os-plus/micro-test-plus-xpack)](https://github.com/micro-os-plus/micro-test-plus-xpack/tags/)
 [![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/micro-test-plus.svg?color=blue)](https://www.npmjs.com/package/@micro-os-plus/micro-test-plus/)
 [![npm](https://img.shields.io/npm/dt/@micro-os-plus/micro-test-plus)](https://www.npmjs.com/package/@micro-os-plus/micro-test-plus/)
-[![CI on Push](https://github.com/micro-os-plus/micro-test-plus-xpack/actions/workflows/CI.yml/badge.svg)](https://github.com/micro-os-plus/micro-test-plus-xpack/actions/workflows/CI.yml)
+[![CI on Push](https://github.com/micro-os-plus/micro-test-plus-xpack/actions/workflows/ci.yml/badge.svg)](https://github.com/micro-os-plus/micro-test-plus-xpack/actions/workflows/ci.yml)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fmicro-os-plus.github.io%2Fmicro-test-plus-xpack%2F)](https://micro-os-plus.github.io/micro-test-plus-xpack/)
 
 #### [platform-sifive-arty-xpack](https://github.com/micro-os-plus/platform-sifive-arty-xpack/)
